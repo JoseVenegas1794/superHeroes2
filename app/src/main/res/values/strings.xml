@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SEVenegas</string>
+    <string name="color">font fgcolor="#FFFF0000"</string>
+    <string name="desc">image</string>
+    <string name="biografia">Biografia</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="inteligencia">Inteligencia</string>
+    <string name="fuerza">Fuerza</string>
+
+</resources>
